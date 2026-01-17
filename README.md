@@ -1,2 +1,2 @@
-# Budgeting-using-Excel
-In this project, I developed and managed the project budget using Excel, ensuring optimal resource allocation, expense tracking, and financial reporting.
+# AML, KYC & Transaction Monitoring Simulation.
+Completed a hands-on AML/KYC and Transaction Monitoring simulation mirroring real banking and fintech compliance workflows.
